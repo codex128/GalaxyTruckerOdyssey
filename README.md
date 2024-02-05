@@ -19,7 +19,7 @@ Galaxy Trucker is a fun game, but it tends to get stale for more experienced pla
 * Any number of players can occupy the same flight day. All players start on the first flight day.
 * If a ship is without a main cabin, or its main cabin is unoccupied by a human, the ship cannot use batteries.
 * If an alien occupies a main cabin, the alien's bonus is doubled.
-* If a ship is without humans, its player cannot make decisions about any event (for example, he cannot decide to land on planets, he cannot decide to fight off pirates, and he cannot use any rockets in open space).
+* If a ship is without humans, its player cannot make decisions about any event.
 * If a ship is without rocket power, it cannot land on planets or take off from the warehouse (forfiet).
 * Components and crew lost through catastrophic events are set aside; **those resources cannot be used for the remainder of the game.**
 * Red goods may be placed in regular cargo holds.
