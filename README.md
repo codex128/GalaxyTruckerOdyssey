@@ -14,7 +14,7 @@ Galaxy Trucker is a fun game, but it tends to get stale for more experienced pla
 ## Tie Breaking
 *All* ties are resolved the same way: highest roll goes first.
 
-# The Journey
+## The Journey
 * Create a journey deck: Add all but 6 from the deck for the current round. Add 3 cards from each deck from previous rounds.
 * Any number of players can occupy the same flight day. All players start on the first flight day.
 * If a ship is without a main cabin, or its main cabin is unoccupied by a human, the ship cannot use batteries.
