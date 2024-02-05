@@ -1,17 +1,17 @@
 # Galaxy Trucker: Odyssey
 A free variant for the Galaxy Trucker boardgame that anyone can implement.
 
-# Introduction
+## Introduction
 Galaxy Trucker is a fun game, but it tends to get stale for more experienced players. There is an optimal ship configuration which is relatively easy to build that will survive anything the game throws at you. Odyssey aims to make the game harder while staying true to the theme of Galaxy Trucker.
 
-# Ship Building
+## Ship Building
 * Only the class III ship layout is used in this variant (you can also choose to use class IIIa).
 * For every round of ship building you only get one sandtimer's worth of time to build.
 * When the sandtimer runs out, every player must stop building immediately.
 * You may remove components from your ship.
 * For round 2 and above, you build off the ship you ended with on the previous round.
 
-# Tie Breaking
+## Tie Breaking
 *All* ties are resolved the same way: highest roll goes first.
 
 # The Journey
@@ -26,10 +26,9 @@ Galaxy Trucker is a fun game, but it tends to get stale for more experienced pla
 * If a regular cargo hold component containing a red good is hit and destroyed, the red good explodes and destroys the four adjacent orthogonal components.
 
 
-# Journey End
-* All bonuses occur the same.
-* All players may sell any goods on their ship for their full price, unless they have no crew remaining.
-* **Do not clear your game board.** All players will begin the ship building phase with the same ship and build off of it.
+## Journey End
+* A ship having no crew cannot collect any bonus credits and cannot sell goods.
+* **Do not clear your game board.** All players will begin the ship building phase with their current ship (regardless of condition).
 
-# Game End
+## Game End
 The games ends after the third round finishes. All players must pay 1 credit for each component and crew they lost. All players who have at least 1 credit win, but the richest player wins a bit more than everyone else.
