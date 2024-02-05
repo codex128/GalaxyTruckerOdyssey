@@ -24,6 +24,7 @@ Galaxy Trucker is a fun game, but it tends to get stale for more experienced pla
 * Components and crew lost through catastrophic events are set aside; **those resources cannot be used for the remainder of the game.**
 * Red goods may be placed in regular cargo holds.
 * If a regular cargo hold component containing a red good is hit and destroyed, the red good explodes and destroys the four adjacent orthogonal components.
+* If a player becomes lapped, all players who have lapped him shoot at him after each event is resolved. Single cannons produce light cannon fire, double cannons produce heavy cannon fire. The direction of the gun corresponds to the direction of the projectile.
 
 
 ## Journey End
