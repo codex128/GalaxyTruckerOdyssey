@@ -23,7 +23,7 @@ Galaxy Trucker is a fun game, but it tends to get stale for more experienced pla
 * If a ship is without rocket power, it cannot land on planets or take off from the warehouse (forfiet).
 * Components and crew lost through catastrophic events are set aside; **those resources cannot be used for the remainder of the game.**
 * Red goods may be placed in regular cargo holds.
-* If a regular cargo hold component containing a red good is hit and destroyed, the red good explodes and destroys the four adjacent orthogonal components (this cannot be avoided).
+* If a regular cargo hold component containing a red good is hit and destroyed, the red good explodes and destroys the four adjacent orthogonal components.
 
 
 # Journey End
